@@ -1,6 +1,6 @@
 # ns3-5g-network-slicing-model
-5G网络切片NS-3仿真模型（eMBB+uRLLC共存，含QoS调度与数据分析工具）— 预发布测试版，随论文发布。 
-NS-3 5G network slicing simulation (eMBB+uRLLC coexistence, QoS scheduler, analysis tools) — pre-release beta, accompanies paper
+5G网络切片NS-3仿真模型（eMBB+uRLLC共存，含QoS调度与数据分析工具）— 预发布测试版，随论文发布。 /n
+NS-3 5G network slicing simulation (eMBB+uRLLC coexistence, QoS scheduler, analysis tools) — pre-release beta, accompanies paper.
 
 
 ⚠️ 预发布说明（Pre-release Notice）
@@ -9,3 +9,10 @@ NS-3 5G network slicing simulation (eMBB+uRLLC coexistence, QoS scheduler, analy
 仍在持续优化中，部分接口可能变更；
 欢迎提交 Issue 和 Pull Request，共同完善。
 建议使用 NS-3 版本 3.41 运行本模型。
+
+⚠️ Pre-release Notice
+This is v1.0.0-alpha, released alongside the academic paper *"Design of 5G Network Slicing Simulation Model Based on NS-3"*.
+The code has reproduced all experiments in the paper;
+Under active development; APIs may change;
+Issues and PRs welcome.
+Tested with NS-3 version X.XX.
